@@ -1,0 +1,48 @@
+================================================================================
+🚨 ALERTA DE SEGURIDAD - SISTEMA CENTRAL DEL GRAN HOTEL OLIMPO 🚨
+================================================================================
+
+[FECHA DE INCIDENTE]: Madrugada del día de hoy
+[ESTADO DEL SERVIDOR]: Bloqueado / Datos Corrompidos
+[ORIGEN DE LA ANOMALÍA]: Ataque del Doctor Ruido
+
+--------------------------------------------------------------------------------
+🕵️‍♀️ MENSAJE PARA EL EQUIPO DE AUDITORÍA DE DATOS
+--------------------------------------------------------------------------------
+¡Bienvenidas/os a la investigación!
+
+Durante la noche, un ciberataque ha alterado las bases de datos del Gran Hotel.
+Las reservas completadas, canceladas y devueltas se han mezclado en un único 
+registro, distorsionando las métricas de ingresos y ocupación.
+
+El panel de control gráfico de recepción está congelado. Para recuperar la 
+verdad analítica, tendréis que desbloquear las 6 HERRAMIENTAS DEL DATA ANALYST
+atravesando cada una de las 6 Puertas del proyecto.
+
+--------------------------------------------------------------------------------
+📜 REGLAS DEL EQUIPO AGILE (TRABAJO EN PAREJAS)
+--------------------------------------------------------------------------------
+1. ROLES DE SPRINT:
+   - PILOTO (Teclado): Escribe los comandos e interactúa con el sistema.
+   - COPILOTO (Navegante): Lee las instrucciones, dicta la sintaxis y verifica errores.
+   * IMPORTANTE: En cada nueva Puerta es OBLIGATORIO intercambiar los roles.
+
+2. CULTURA DEL ERROR Y APRENDIZAJE:
+   - Los errores de sintaxis en la terminal NO son notas ni penalizaciones.
+   - Leed atentamente los mensajes de la consola: el propio sistema os dirá qué falla.
+   - No compitáis por velocidad: lo importante es saber explicar CÓMO se obtuvo el dato.
+
+--------------------------------------------------------------------------------
+🧭 TU PRIMERA MISIÓN (PUERTA 1: LA BRÚJULA - GIT BASH)
+--------------------------------------------------------------------------------
+El atacante ha dejado una clave de acceso oculta dentro de esta misma carpeta,
+pero le ha colocado un punto al inicio del nombre para que no se vea a simple vista.
+
+Sigue estos pasos en tu terminal Git Bash:
+1. Comprueba en qué carpeta te encuentras usando el comando: pwd
+2. Ejecuta el comando de listado que revela archivos ocultos: ls -la
+3. Localiza el archivo oculto (empieza por un punto: .llave_maestra.txt)
+4. Lee su contenido ejecutando: cat .llave_maestra.txt
+
+¡Que la Brújula del Dato os guíe!
+================================================================================

@@ -1,0 +1,37 @@
+================================================================================
+🔑 CREDENCIAL DE SEGURIDAD RECUPERADA - GRAN HOTEL OLIMPO
+================================================================================
+[ESTADO]: ACCESO CONCEDIDO A LA PUERTA 1
+[LLAVE MAESTRA]: GH-OLIMPO-DATA-2026-KEY
+
+--------------------------------------------------------------------------------
+🕵️‍♀️ HALLAZGO DE INVESTIGACIÓN (EVIDENCIA DE AUDITORÍA)
+--------------------------------------------------------------------------------
+¡Excelente trabajo con la consola Git Bash! 
+
+Has ejecutado con éxito el comando `ls -la` para revelar este archivo oculto.
+La lectura de documentación y la exploración de sistemas son competencias 
+fundamentales para cualquier Data Analyst.
+
+Anota la siguiente información en tu bitácora:
+
+1. CÓDIGO DE DESBLOQUEO: 
+   GH-OLIMPO-DATA-2026-KEY
+
+2. PRIMERA ANOMALÍA DETECTADA EN LOS DATOS:
+   Revisando la carpeta `data/reservas_raw.csv`, hemos descubierto que el atacante 
+   introdujo 10 FILAS TOTALMENTE DUPLICADAS e intencionadamente dejó celdas 
+   vacías (NaN) en precios y noches.
+
+3. INSTRUCCIÓN PARA EL SIGUIENTE SPRINT (PUERTA 2 - EL ESCUDO):
+   No basta con tener esta llave en tu ordenador. Debemos asegurar el estado 
+   de nuestra investigación en el control de versiones.
+   
+   Proceded a realizar vuestro primer `git commit` y publicad el repositorio 
+   en GitHub utilizando el archivo README.md.
+
+--------------------------------------------------------------------------------
+⚠️ RECORDATORIO DE ÉTICA Y SEGURIDAD EN DATOS:
+Esta clave es simulada para el ejercicio. En proyectos reales, NUNCA subas
+contraseñas, tokens de IA o credenciales privadas a repositorios públicos de Git.
+================================================================================
