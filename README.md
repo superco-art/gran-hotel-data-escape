@@ -10,7 +10,7 @@ Tu objetivo junto a tu pareja de investigación es utilizar las **6 Herramientas
 ## 🛠️ Los 6 Poderes del Investigador
 1. **Brújula (Git Bash):** Navegar por el servidor y encontrar la pista oculta.
 2. **Escudo (Git + GitHub):** Crear un respaldo seguro en la nube.
-3. **Pluma (Sublime Text):** Documentar el progreso en la bitácora técnica.
+3. **Pluma (VS Code):** Documentar el progreso en la bitácora técnica.
 4. **Visor (VS Code):** Mapear y organizar el proyecto completo.
 5. **Motor (Python CLI):** Procesar el script de conciliación de datos.
 6. **Oráculo (Jupyter Notebook):** Analizar métricas de negocio y presentar conclusiones.

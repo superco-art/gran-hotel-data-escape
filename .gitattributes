@@ -1,0 +1,2 @@
+# Normalizar saltos de línea automáticamente a LF en el repositorio Git
+* text=auto eol=lf
